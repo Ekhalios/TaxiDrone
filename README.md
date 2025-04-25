@@ -10,7 +10,7 @@ This is a Unity project simulating an **autonomous drone taxi** system. It demon
 ## ▶️ How to Run
 
 1. **Clone the project**:
-   git clone https://github.com/your-username/autonomous-drone-taxi.git
+   git clone git@github.com:Ekhalios/TaxiDrone.git
 
 2. **Open Unity Hub**, click **"Add Project"**, and select the cloned folder.
 
