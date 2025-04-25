@@ -18,3 +18,10 @@ This is a Unity project simulating an **autonomous drone taxi** system. It demon
    Assets/Sample_00(...).unity
 
 4. Press the **Play** button to start the simulation.
+
+
+## Assets
+
+https://assetstore.unity.com/packages/3d/environments/urban/japanese-otaku-city-20359
+https://assetstore.unity.com/packages/3d/vehicles/air/realistic-drone-66698
+https://assetstore.unity.com/packages/3d/characters/humanoids/casual-1-anime-girl-characters-185076
